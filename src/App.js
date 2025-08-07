@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+// Fix: Import JSON from src, not public
+import content from "./content.json";
 
 const COLORS = {
   particle: "text-green-500 dark:text-green-400",
@@ -18,10 +20,8 @@ const App = () => {
   const [darkMode, setDarkMode] = useState(false);
 
   useEffect(() => {
-    fetch("/content.json")
-      .then((res) => res.json())
-      .then((data) => setStories(data.stories || []))
-      .catch((err) => console.error("Failed to load content:", err));
+    // Use imported content.json instead of fetch
+    setStories(content.stories || []);
   }, []);
 
   useEffect(() => {
