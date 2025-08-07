@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fikr-tool/static/css/main.fe4643ab.css",
+    "main.js": "/fikr-tool/static/js/main.b525e561.js",
+    "index.html": "/fikr-tool/index.html",
+    "main.fe4643ab.css.map": "/fikr-tool/static/css/main.fe4643ab.css.map",
+    "main.b525e561.js.map": "/fikr-tool/static/js/main.b525e561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4643ab.css",
+    "static/js/main.b525e561.js"
+  ]
+}
