@@ -11,11 +11,20 @@ const InfoPane = ({
 }) => (
   <React.Fragment>
     {stories.map((story, storyIdx) => (
-      <div key={storyIdx} className="mb-10 sm:mb-14">
-        <h2 className={
-          "text-2xl sm:text-3xl font-bold mb-5 sm:mb-8 tracking-tight " +
-          (darkMode ? "text-blue-200" : "text-blue-800")
-        }>
+      <div
+        key={storyIdx}
+        className="mb-10 sm:mb-14"
+        // Add scroll margin to prevent banner overlap when jumping to anchor or scrolling
+        style={{ scrollMarginTop: "6rem" }}
+      >
+        <h2
+          className={
+            "text-2xl sm:text-3xl font-bold mb-5 sm:mb-8 tracking-tight " +
+            (darkMode ? "text-blue-200" : "text-blue-800")
+          }
+          // Add extra top padding to the title itself
+          style={{ paddingTop: "2.5rem" }}
+        >
           {story.title}
         </h2>
         <div className="space-y-6 sm:space-y-8 w-full">

@@ -141,8 +141,8 @@ const App = () => {
           darkMode={darkMode}
           setDarkMode={setDarkMode}
         />
-        {/* Add pt-16 to push content below the banner */}
-        <div className="text-right px-2 sm:px-8 py-4 sm:py-8 font-[Amiri] w-full max-w-none pt-16">
+        {/* Increase pt-16 to pt-24 for more space below the banner */}
+        <div className="text-right px-2 sm:px-8 py-4 sm:py-8 font-[Amiri] w-full max-w-none pt-24">
           <InfoPane
             stories={stories}
             darkMode={darkMode}
