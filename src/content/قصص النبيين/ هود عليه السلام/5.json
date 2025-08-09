@@ -35,7 +35,7 @@
               {
                 "word": "اللَّه",
                 "type": "noun",
-                "definition": "Allah"
+                "definition": "Allah (God)"
               }
             ]
           },
@@ -89,7 +89,7 @@
               {
                 "word": "عَاد",
                 "type": "noun",
-                "definition": "ʿĀd (people)"
+                "definition": "ʿĀد (people)"
               }
             ]
           },
@@ -127,7 +127,7 @@
               {
                 "word": "اللَّه",
                 "type": "noun",
-                "definition": "Allah"
+                "definition": "Allah (God)"
               }
             ]
           },
@@ -139,7 +139,7 @@
               {
                 "word": "لا",
                 "type": "particle",
-                "definition": "not"
+                "definition": "not/no"
               }
             ]
           },
@@ -169,7 +169,7 @@
               {
                 "word": "لِ",
                 "type": "particle",
-                "definition": "for"
+                "definition": "for/to"
               },
               {
                 "word": "عِبَاد",
@@ -179,7 +179,7 @@
               {
                 "word": "هِ",
                 "type": "pronoun",
-                "definition": "him/it"
+                "definition": "his/its"
               }
             ]
           },
@@ -220,7 +220,7 @@
               {
                 "word": "اللَّه",
                 "type": "noun",
-                "definition": "Allah"
+                "definition": "Allah (God)"
               }
             ]
           },
@@ -232,14 +232,14 @@
               {
                 "word": "لا",
                 "type": "particle",
-                "definition": "not"
+                "definition": "not/no"
               }
             ]
           },
           {
             "harakat": "يُحِبُّ",
             "base": "يحب",
-            "english": "love",
+            "english": "loves",
             "metadata": [
               {
                 "word": "يُحِبُّ",
@@ -296,7 +296,1064 @@
               {
                 "word": "أَرْض",
                 "type": "noun",
-                "definition": "earth/land"
+                "definition": "earth, land"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "وَكَانَ",
+            "base": "وكان",
+            "english": "and was",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "كَانَ",
+                "type": "verb",
+                "definition": "he/it was",
+                "root": "ك و ن",
+                "past": "كَانَ",
+                "future": "يَكُونُ",
+                "command": "كُنْ",
+                "active_participle": "كَائِن",
+                "masdar": "كَوْن"
+              }
+            ]
+          },
+          {
+            "harakat": "عَادٌ",
+            "base": "عاد",
+            "english": "ʿĀd",
+            "metadata": [
+              {
+                "word": "عَاد",
+                "type": "noun",
+                "definition": "ʿĀد (people)"
+              }
+            ]
+          },
+          {
+            "harakat": "لا",
+            "base": "لا",
+            "english": "not",
+            "metadata": [
+              {
+                "word": "لا",
+                "type": "particle",
+                "definition": "not/no"
+              }
+            ]
+          },
+          {
+            "harakat": "يَسْتَعْمِلُونَ",
+            "base": "يستعملون",
+            "english": "they use",
+            "metadata": [
+              {
+                "word": "يَسْتَعْمِلُونَ",
+                "type": "verb",
+                "definition": "they use",
+                "root": "ع م ل",
+                "past": "اِسْتَعْمَلَ",
+                "future": "يَسْتَعْمِلُ",
+                "command": "اِسْتَعْمِلْ",
+                "active_participle": "مُسْتَعْمِل",
+                "masdar": "اِسْتِعْمَال"
+              }
+            ]
+          },
+          {
+            "harakat": "عُقُولَهُمْ",
+            "base": "عقولهم",
+            "english": "their minds",
+            "metadata": [
+              {
+                "word": "عُقُول",
+                "type": "noun",
+                "definition": "minds"
+              },
+              {
+                "word": "هُمْ",
+                "type": "pronoun",
+                "definition": "their"
+              }
+            ]
+          },
+          {
+            "harakat": "إِلا",
+            "base": "إلا",
+            "english": "except",
+            "metadata": [
+              {
+                "word": "إِلَّا",
+                "type": "particle",
+                "definition": "except"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "الأَكْلِ",
+            "base": "الأكل",
+            "english": "eating",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "أَكْل",
+                "type": "noun",
+                "definition": "eating"
+              }
+            ]
+          },
+          {
+            "harakat": "والشَّرْبِ",
+            "base": "والشرب",
+            "english": "and drinking",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "شَّرْب",
+                "type": "noun",
+                "definition": "drinking"
+              }
+            ]
+          },
+          {
+            "harakat": "وَاللَّهْوِ",
+            "base": "واللهو",
+            "english": "and amusement",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "لَّهْو",
+                "type": "noun",
+                "definition": "amusement"
+              }
+            ]
+          },
+          {
+            "harakat": "واللَّعِبِ",
+            "base": "واللعب",
+            "english": "and play",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "لَّعِب",
+                "type": "noun",
+                "definition": "play"
+              }
+            ]
+          },
+          {
+            "harakat": "وَبِنَاءِ",
+            "base": "وبناء",
+            "english": "and building",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "بِنَاء",
+                "type": "noun",
+                "definition": "building"
+              }
+            ]
+          },
+          {
+            "harakat": "البُيُوتِ",
+            "base": "البيوت",
+            "english": "the houses",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "بُيُوت",
+                "type": "noun",
+                "definition": "houses"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "وَقَدْ",
+            "base": "وقد",
+            "english": "and indeed",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "قَدْ",
+                "type": "particle",
+                "definition": "indeed/already"
+              }
+            ]
+          },
+          {
+            "harakat": "فَسَدَتْ",
+            "base": "فسدت",
+            "english": "were corrupted",
+            "metadata": [
+              {
+                "word": "فَسَدَتْ",
+                "type": "verb",
+                "definition": "she/it became corrupt",
+                "root": "ف س د",
+                "past": "فَسَدَ",
+                "future": "يَفْسُدُ",
+                "command": "اِفْسُدْ",
+                "active_participle": "فَاسِد",
+                "masdar": "فَسَاد"
+              }
+            ]
+          },
+          {
+            "harakat": "عُقُولُهُمْ",
+            "base": "عقولهم",
+            "english": "their minds",
+            "metadata": [
+              {
+                "word": "عُقُولُ",
+                "type": "noun",
+                "definition": "minds"
+              },
+              {
+                "word": "هُمْ",
+                "type": "pronoun",
+                "definition": "their"
+              }
+            ]
+          },
+          {
+            "harakat": "لأَنَّهُمْ",
+            "base": "لأنهم",
+            "english": "because they",
+            "metadata": [
+              {
+                "word": "لِأَنَّ",
+                "type": "particle",
+                "definition": "because"
+              },
+              {
+                "word": "هُمْ",
+                "type": "pronoun",
+                "definition": "they"
+              }
+            ]
+          },
+          {
+            "harakat": "لَا",
+            "base": "لا",
+            "english": "not",
+            "metadata": [
+              {
+                "word": "لا",
+                "type": "particle",
+                "definition": "not/no"
+              }
+            ]
+          },
+          {
+            "harakat": "يَسْتَعْمِلُونَهَا",
+            "base": "يستعملونها",
+            "english": "they use them",
+            "metadata": [
+              {
+                "word": "يَسْتَعْمِلُونَ",
+                "type": "verb",
+                "definition": "they use",
+                "root": "ع م ل",
+                "past": "اِسْتَعْمَلَ",
+                "future": "يَسْتَعْمِلُ",
+                "command": "اِسْتَعْمِلْ",
+                "active_participle": "مُسْتَعْمِل",
+                "masdar": "اِسْتِعْمَال"
+              },
+              {
+                "word": "هَا",
+                "type": "pronoun",
+                "definition": "her/it"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "الدِّين",
+            "base": "الدين",
+            "english": "religion",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "دِّين",
+                "type": "noun",
+                "definition": "religion"
+              }
+            ]
+          },
+          {
+            "harakat": "وَكَانَ",
+            "base": "وكان",
+            "english": "and was",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "كَانَ",
+                "type": "verb",
+                "definition": "he/it was",
+                "root": "ك و ن",
+                "past": "كَانَ",
+                "future": "يَكُونُ",
+                "command": "كُنْ",
+                "active_participle": "كَائِن",
+                "masdar": "كَوْن"
+              }
+            ]
+          },
+          {
+            "harakat": "عَادِ",
+            "base": "عاد",
+            "english": "ʿĀd",
+            "metadata": [
+              {
+                "word": "عَاد",
+                "type": "noun",
+                "definition": "ʿĀd (people)"
+              }
+            ]
+          },
+          {
+            "harakat": "عُقَلَاءَ",
+            "base": "عقلاء",
+            "english": "wise",
+            "metadata": [
+              {
+                "word": "عُقَلَاء",
+                "type": "noun",
+                "definition": "intelligent/wise (pl.)"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "الدُّنْيَا",
+            "base": "الدنيا",
+            "english": "the world",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "دُّنْيَا",
+                "type": "noun",
+                "definition": "worldly life"
+              }
+            ]
+          },
+          {
+            "harakat": "أَغْنِيَاءَ",
+            "base": "أغنياء",
+            "english": "rich",
+            "metadata": [
+              {
+                "word": "أَغْنِيَاء",
+                "type": "noun",
+                "definition": "rich (pl.)"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "الدِّيْنِ",
+            "base": "الدين",
+            "english": "religion",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "دِّيْن",
+                "type": "noun",
+                "definition": "religion"
+              }
+            ]
+          },
+          {
+            "harakat": "يَعْبُدُونَ",
+            "base": "يعبدون",
+            "english": "they worship",
+            "metadata": [
+              {
+                "word": "يَعْبُدُونَ",
+                "type": "verb",
+                "definition": "they worship",
+                "root": "ع ب د",
+                "past": "عَبَدَ",
+                "future": "يَعْبُدُ",
+                "command": "اُعْبُدْ",
+                "active_participle": "عَابِد",
+                "masdar": "عِبَادَة"
+              }
+            ]
+          },
+          {
+            "harakat": "الحِجَارَةَ",
+            "base": "الحجارة",
+            "english": "the stones",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "حِجَارَة",
+                "type": "noun",
+                "definition": "stones"
+              }
+            ]
+          },
+          {
+            "harakat": "وَلَا",
+            "base": "ولا",
+            "english": "and do not",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "لا",
+                "type": "particle",
+                "definition": "not/no"
+              }
+            ]
+          },
+          {
+            "harakat": "يَعْقِلُونَ",
+            "base": "يعقلون",
+            "english": "they reason",
+            "metadata": [
+              {
+                "word": "يَعْقِلُونَ",
+                "type": "verb",
+                "definition": "they reason",
+                "root": "ع ق ل",
+                "past": "عَقَلَ",
+                "future": "يَعْقِلُ",
+                "command": "اِعْقِلْ",
+                "active_participle": "عَاقِل",
+                "masdar": "عَقْل"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "فَأَرَادَ",
+            "base": "فأراد",
+            "english": "so He willed",
+            "metadata": [
+              {
+                "word": "فَ",
+                "type": "particle",
+                "definition": "so/then"
+              },
+              {
+                "word": "أَرَادَ",
+                "type": "verb",
+                "definition": "He wanted",
+                "root": "ر و د",
+                "past": "أَرَادَ",
+                "future": "يُرِيدُ",
+                "command": "أَرِدْ",
+                "active_participle": "مُرِيد",
+                "masdar": "إِرَادَة"
+              }
+            ]
+          },
+          {
+            "harakat": "اللَّهُ",
+            "base": "الله",
+            "english": "Allah",
+            "metadata": [
+              {
+                "word": "اللَّه",
+                "type": "noun",
+                "definition": "Allah (God)"
+              }
+            ]
+          },
+          {
+            "harakat": "أَنْ",
+            "base": "أن",
+            "english": "that",
+            "metadata": [
+              {
+                "word": "أَنْ",
+                "type": "particle",
+                "definition": "that/to"
+              }
+            ]
+          },
+          {
+            "harakat": "يُرْسِلَ",
+            "base": "يرسل",
+            "english": "send",
+            "metadata": [
+              {
+                "word": "يُرْسِلَ",
+                "type": "verb",
+                "definition": "he sends",
+                "root": "ر س ل",
+                "past": "أَرْسَلَ",
+                "future": "يُرْسِلُ",
+                "command": "أَرْسِلْ",
+                "active_participle": "مُرْسِل",
+                "masdar": "إِرْسَال"
+              }
+            ]
+          },
+          {
+            "harakat": "إِلَيْهِمْ",
+            "base": "إليهم",
+            "english": "to them",
+            "metadata": [
+              {
+                "word": "إِلَى",
+                "type": "particle",
+                "definition": "to/towards"
+              },
+              {
+                "word": "هِمْ",
+                "type": "pronoun",
+                "definition": "them"
+              }
+            ]
+          },
+          {
+            "harakat": "رَسُولاً",
+            "base": "رسولا",
+            "english": "a messenger",
+            "metadata": [
+              {
+                "word": "رَسُول",
+                "type": "noun",
+                "definition": "messenger"
+              }
+            ]
+          },
+          {
+            "harakat": "يَهْدِيهِمْ",
+            "base": "يهديهم",
+            "english": "to guide them",
+            "metadata": [
+              {
+                "word": "يَهْدِي",
+                "type": "verb",
+                "definition": "he guides",
+                "root": "ه د ي",
+                "past": "هَدَى",
+                "future": "يَهْدِي",
+                "command": "اِهْدِ",
+                "active_participle": "هَادٍ",
+                "masdar": "هِدَايَة"
+              },
+              {
+                "word": "هِمْ",
+                "type": "pronoun",
+                "definition": "them"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "وَأَرَادَ",
+            "base": "وأراد",
+            "english": "and He willed",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "أَرَادَ",
+                "type": "verb",
+                "definition": "He wanted",
+                "root": "ر و د",
+                "past": "أَرَادَ",
+                "future": "يُرِيدُ",
+                "command": "أَرِدْ",
+                "active_participle": "مُرِيد",
+                "masdar": "إِرَادَة"
+              }
+            ]
+          },
+          {
+            "harakat": "اللَّهُ",
+            "base": "الله",
+            "english": "Allah",
+            "metadata": [
+              {
+                "word": "اللَّه",
+                "type": "noun",
+                "definition": "Allah (God)"
+              }
+            ]
+          },
+          {
+            "harakat": "أَنْ",
+            "base": "أن",
+            "english": "that",
+            "metadata": [
+              {
+                "word": "أَنْ",
+                "type": "particle",
+                "definition": "that/to"
+              }
+            ]
+          },
+          {
+            "harakat": "يَكُوْنَ",
+            "base": "يكون",
+            "english": "be",
+            "metadata": [
+              {
+                "word": "يَكُونَ",
+                "type": "verb",
+                "definition": "he be",
+                "root": "ك و ن",
+                "past": "كَانَ",
+                "future": "يَكُونُ",
+                "command": "كُنْ",
+                "active_participle": "كَائِن",
+                "masdar": "كَوْن"
+              }
+            ]
+          },
+          {
+            "harakat": "هَذَا",
+            "base": "هذا",
+            "english": "this",
+            "metadata": [
+              {
+                "word": "هَذَا",
+                "type": "pronoun",
+                "definition": "this (masc.)"
+              }
+            ]
+          },
+          {
+            "harakat": "الرَّسُولُ",
+            "base": "الرسول",
+            "english": "the messenger",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "رَّسُول",
+                "type": "noun",
+                "definition": "messenger"
+              }
+            ]
+          },
+          {
+            "harakat": "مِنْ",
+            "base": "من",
+            "english": "from",
+            "metadata": [
+              {
+                "word": "مِنْ",
+                "type": "particle",
+                "definition": "from"
+              }
+            ]
+          },
+          {
+            "harakat": "أَنْفُسِهِمْ",
+            "base": "أنفسهم",
+            "english": "themselves",
+            "metadata": [
+              {
+                "word": "أَنْفُس",
+                "type": "noun",
+                "definition": "selves"
+              },
+              {
+                "word": "هِمْ",
+                "type": "pronoun",
+                "definition": "their/them"
+              }
+            ]
+          },
+          {
+            "harakat": "يَعْرِفُونَهُ",
+            "base": "يعرفونه",
+            "english": "they know him",
+            "metadata": [
+              {
+                "word": "يَعْرِفُونَ",
+                "type": "verb",
+                "definition": "they know",
+                "root": "ع ر ف",
+                "past": "عَرَفَ",
+                "future": "يَعْرِفُ",
+                "command": "اِعْرِفْ",
+                "active_participle": "عَارِف",
+                "masdar": "مَعْرِفَة"
+              },
+              {
+                "word": "هُ",
+                "type": "pronoun",
+                "definition": "him"
+              }
+            ]
+          },
+          {
+            "harakat": "ويَفْهَمُونَ",
+            "base": "ويفهمون",
+            "english": "and they understand",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "يَفْهَمُونَ",
+                "type": "verb",
+                "definition": "they understand",
+                "root": "ف ه م",
+                "past": "فَهِمَ",
+                "future": "يَفْهَمُ",
+                "command": "اِفْهَمْ",
+                "active_participle": "فَاهِم",
+                "masdar": "فَهْم"
+              }
+            ]
+          },
+          {
+            "harakat": "كَلامَهُ",
+            "base": "كلامه",
+            "english": "his speech",
+            "metadata": [
+              {
+                "word": "كَلَام",
+                "type": "noun",
+                "definition": "speech/words"
+              },
+              {
+                "word": "هُ",
+                "type": "pronoun",
+                "definition": "his"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "كَانَ",
+            "base": "كان",
+            "english": "was",
+            "metadata": [
+              {
+                "word": "كَانَ",
+                "type": "verb",
+                "definition": "he/it was",
+                "root": "ك و ن",
+                "past": "كَانَ",
+                "future": "يَكُونُ",
+                "command": "كُنْ",
+                "active_participle": "كَائِن",
+                "masdar": "كَوْن"
+              }
+            ]
+          },
+          {
+            "harakat": "هُودٌ",
+            "base": "هود",
+            "english": "Hūd",
+            "metadata": [
+              {
+                "word": "هُود",
+                "type": "noun",
+                "definition": "Hud (a prophet)"
+              }
+            ]
+          },
+          {
+            "harakat": "ذَلِكَ",
+            "base": "ذلك",
+            "english": "that",
+            "metadata": [
+              {
+                "word": "ذَلِكَ",
+                "type": "pronoun",
+                "definition": "that (masc.)"
+              }
+            ]
+          },
+          {
+            "harakat": "الرَّسُولَ",
+            "base": "الرسول",
+            "english": "the messenger",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "رَّسُول",
+                "type": "noun",
+                "definition": "messenger"
+              }
+            ]
+          },
+          {
+            "harakat": "وُلِدَ",
+            "base": "ولد",
+            "english": "was born",
+            "metadata": [
+              {
+                "word": "وُلِدَ",
+                "type": "verb",
+                "definition": "he was born (passive)",
+                "root": "و ل د",
+                "past": "وُلِدَ",
+                "future": "يُولَدُ",
+                "command": "—",
+                "active_participle": "مَوْلُود",
+                "masdar": "وِلادَة"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "بَيْتٍ",
+            "base": "بيت",
+            "english": "a house",
+            "metadata": [
+              {
+                "word": "بَيْت",
+                "type": "noun",
+                "definition": "house"
+              }
+            ]
+          },
+          {
+            "harakat": "شَرِيفِ",
+            "base": "شريف",
+            "english": "noble",
+            "metadata": [
+              {
+                "word": "شَرِيف",
+                "type": "noun",
+                "definition": "noble/honorable"
+              }
+            ]
+          },
+          {
+            "harakat": "في",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "عادٍ",
+            "base": "عاد",
+            "english": "ʿĀd",
+            "metadata": [
+              {
+                "word": "عَاد",
+                "type": "noun",
+                "definition": "ʿĀد (people)"
+              }
+            ]
+          },
+          {
+            "harakat": "وَنَشَأَ",
+            "base": "ونشأ",
+            "english": "and he grew up",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "نَشَأَ",
+                "type": "verb",
+                "definition": "he grew up",
+                "root": "ن ش أ",
+                "past": "نَشَأَ",
+                "future": "يَنْشَأُ",
+                "command": "اِنْشَأْ",
+                "active_participle": "ناشِئ",
+                "masdar": "نُشُوء/نَّشْأَة"
+              }
+            ]
+          },
+          {
+            "harakat": "عَلَى",
+            "base": "على",
+            "english": "upon",
+            "metadata": [
+              {
+                "word": "عَلَى",
+                "type": "particle",
+                "definition": "upon/on"
+              }
+            ]
+          },
+          {
+            "harakat": "عَقْلٍ",
+            "base": "عقل",
+            "english": "intellect",
+            "metadata": [
+              {
+                "word": "عَقْل",
+                "type": "noun",
+                "definition": "intellect/mind"
+              }
+            ]
+          },
+          {
+            "harakat": "وَصَلاحٍ",
+            "base": "وصلاح",
+            "english": "and righteousness",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "صَلاح",
+                "type": "noun",
+                "definition": "righteousness"
               }
             ]
           }
