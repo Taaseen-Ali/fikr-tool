@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fikr-tool/static/css/main.e7e98455.css",
-    "main.js": "/fikr-tool/static/js/main.520f9e70.js",
+    "main.css": "/fikr-tool/static/css/main.a3bf8b23.css",
+    "main.js": "/fikr-tool/static/js/main.14d3035b.js",
     "index.html": "/fikr-tool/index.html",
-    "main.e7e98455.css.map": "/fikr-tool/static/css/main.e7e98455.css.map",
-    "main.520f9e70.js.map": "/fikr-tool/static/js/main.520f9e70.js.map"
+    "main.a3bf8b23.css.map": "/fikr-tool/static/css/main.a3bf8b23.css.map",
+    "main.14d3035b.js.map": "/fikr-tool/static/js/main.14d3035b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e98455.css",
-    "static/js/main.520f9e70.js"
+    "static/css/main.a3bf8b23.css",
+    "static/js/main.14d3035b.js"
   ]
 }
