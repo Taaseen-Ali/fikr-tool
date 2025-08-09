@@ -1,0 +1,307 @@
+{
+  "stories": [
+    {
+      "title": "ه - هُودٌ الرَّسُولُ",
+      "lines": [
+        [
+          {
+            "harakat": "وَأَرَادَ",
+            "base": "وأراد",
+            "english": "and wanted",
+            "metadata": [
+              {
+                "word": "وَ",
+                "type": "particle",
+                "definition": "and"
+              },
+              {
+                "word": "أَرَادَ",
+                "type": "verb",
+                "definition": "he wanted",
+                "root": "ر و د",
+                "past": "أَرَادَ",
+                "future": "يُرِيدُ",
+                "command": "أَرِدْ",
+                "active_participle": "مُرِيد",
+                "masdar": "إِرَادَة"
+              }
+            ]
+          },
+          {
+            "harakat": "اللهُ",
+            "base": "الله",
+            "english": "Allah",
+            "metadata": [
+              {
+                "word": "اللَّه",
+                "type": "noun",
+                "definition": "Allah"
+              }
+            ]
+          },
+          {
+            "harakat": "أَنْ",
+            "base": "أن",
+            "english": "that",
+            "metadata": [
+              {
+                "word": "أَنْ",
+                "type": "particle",
+                "definition": "that/to"
+              }
+            ]
+          },
+          {
+            "harakat": "يُرْسِلَ",
+            "base": "يرسل",
+            "english": "send",
+            "metadata": [
+              {
+                "word": "يُرْسِلَ",
+                "type": "verb",
+                "definition": "he sends",
+                "root": "ر س ل",
+                "past": "أَرْسَلَ",
+                "future": "يُرْسِلُ",
+                "command": "أَرْسِلْ",
+                "active_participle": "مُرْسِل",
+                "masdar": "إِرْسَال"
+              }
+            ]
+          },
+          {
+            "harakat": "إِلَى",
+            "base": "إلى",
+            "english": "to",
+            "metadata": [
+              {
+                "word": "إِلَى",
+                "type": "particle",
+                "definition": "to/towards"
+              }
+            ]
+          },
+          {
+            "harakat": "عَادٍ",
+            "base": "عاد",
+            "english": "ʿĀd",
+            "metadata": [
+              {
+                "word": "عَاد",
+                "type": "noun",
+                "definition": "ʿĀd (people)"
+              }
+            ]
+          },
+          {
+            "harakat": "رَسُولاً",
+            "base": "رسولا",
+            "english": "a messenger",
+            "metadata": [
+              {
+                "word": "رَسُول",
+                "type": "noun",
+                "definition": "messenger"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "harakat": "إِنَّ",
+            "base": "إن",
+            "english": "indeed",
+            "metadata": [
+              {
+                "word": "إِنَّ",
+                "type": "particle",
+                "definition": "indeed"
+              }
+            ]
+          },
+          {
+            "harakat": "اللهَ",
+            "base": "الله",
+            "english": "Allah",
+            "metadata": [
+              {
+                "word": "اللَّه",
+                "type": "noun",
+                "definition": "Allah"
+              }
+            ]
+          },
+          {
+            "harakat": "لاَ",
+            "base": "لا",
+            "english": "does not",
+            "metadata": [
+              {
+                "word": "لا",
+                "type": "particle",
+                "definition": "not"
+              }
+            ]
+          },
+          {
+            "harakat": "يَرْضَى",
+            "base": "يرضى",
+            "english": "is pleased",
+            "metadata": [
+              {
+                "word": "يَرْضَى",
+                "type": "verb",
+                "definition": "he is pleased",
+                "root": "ر ض و",
+                "past": "رَضِيَ",
+                "future": "يَرْضَى",
+                "command": "اِرْضَ",
+                "active_participle": "رَاضٍ",
+                "masdar": "رِضًا/رِضْوَان"
+              }
+            ]
+          },
+          {
+            "harakat": "لِعِبادِهِ",
+            "base": "لعباده",
+            "english": "for His servants",
+            "metadata": [
+              {
+                "word": "لِ",
+                "type": "particle",
+                "definition": "for"
+              },
+              {
+                "word": "عِبَاد",
+                "type": "noun",
+                "definition": "servants"
+              },
+              {
+                "word": "هِ",
+                "type": "pronoun",
+                "definition": "him/it"
+              }
+            ]
+          },
+          {
+            "harakat": "الكُفْرَ",
+            "base": "الكفر",
+            "english": "disbelief",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "كُفْر",
+                "type": "noun",
+                "definition": "disbelief"
+              }
+            ]
+          },
+          {
+            "harakat": "إِنَّ",
+            "base": "إن",
+            "english": "indeed",
+            "metadata": [
+              {
+                "word": "إِنَّ",
+                "type": "particle",
+                "definition": "indeed"
+              }
+            ]
+          },
+          {
+            "harakat": "اللَّهَ",
+            "base": "الله",
+            "english": "Allah",
+            "metadata": [
+              {
+                "word": "اللَّه",
+                "type": "noun",
+                "definition": "Allah"
+              }
+            ]
+          },
+          {
+            "harakat": "لَا",
+            "base": "لا",
+            "english": "does not",
+            "metadata": [
+              {
+                "word": "لا",
+                "type": "particle",
+                "definition": "not"
+              }
+            ]
+          },
+          {
+            "harakat": "يُحِبُّ",
+            "base": "يحب",
+            "english": "love",
+            "metadata": [
+              {
+                "word": "يُحِبُّ",
+                "type": "verb",
+                "definition": "he loves",
+                "root": "ح ب ب",
+                "past": "أَحَبَّ",
+                "future": "يُحِبُّ",
+                "command": "أَحِبَّ",
+                "active_participle": "مُحِبّ",
+                "masdar": "حُبّ"
+              }
+            ]
+          },
+          {
+            "harakat": "الفَسَادَ",
+            "base": "الفساد",
+            "english": "corruption",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "فَسَاد",
+                "type": "noun",
+                "definition": "corruption"
+              }
+            ]
+          },
+          {
+            "harakat": "فِي",
+            "base": "في",
+            "english": "in",
+            "metadata": [
+              {
+                "word": "فِي",
+                "type": "particle",
+                "definition": "in"
+              }
+            ]
+          },
+          {
+            "harakat": "الأَرْضِ",
+            "base": "الأرض",
+            "english": "the earth",
+            "metadata": [
+              {
+                "word": "ال",
+                "type": "particle",
+                "definition": "the"
+              },
+              {
+                "word": "أَرْض",
+                "type": "noun",
+                "definition": "earth/land"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
