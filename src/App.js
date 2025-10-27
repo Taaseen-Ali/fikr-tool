@@ -19,22 +19,60 @@ const storyFiles = importAll(
 
 // Helper to build a tree from flat file list
 function buildTree(files) {
-  const root = {};
-  files.forEach(({ path, content }) => {
-    const parts = path.split("/");
-    let node = root;
+  const tree = {};
+  files.forEach((f) => {
+    const parts = f.path.split("/");
+    let node = tree;
     for (let i = 0; i < parts.length; i++) {
       const part = parts[i];
       if (i === parts.length - 1) {
-        // File node
-        node[part] = { __file: true, content, path };
+        node[part] = { __file: true, path: f.path, content: f.content };
       } else {
-        node[part] = node[part] || {};
+        if (!node[part]) node[part] = {};
         node = node[part];
       }
     }
   });
-  return root;
+  return sortTree(tree);
+}
+
+function sortTree(tree) {
+  const sorted = {};
+  const entries = Object.entries(tree);
+  
+  // Sort entries: files by numeric prefix, folders alphabetically
+  entries.sort((a, b) => {
+    const [keyA, valueA] = a;
+    const [keyB, valueB] = b;
+    
+    const isFileA = valueA?.__file;
+    const isFileB = valueB?.__file;
+    
+    // If both are files, sort by numeric prefix
+    if (isFileA && isFileB) {
+      const numA = parseInt(keyA.match(/^(\d+)/)?.[1] || "0");
+      const numB = parseInt(keyB.match(/^(\d+)/)?.[1] || "0");
+      return numA - numB;
+    }
+    
+    // Files come after folders
+    if (isFileA !== isFileB) {
+      return isFileA ? 1 : -1;
+    }
+    
+    // Both are folders, sort alphabetically
+    return keyA.localeCompare(keyB, 'ar');
+  });
+  
+  entries.forEach(([key, value]) => {
+    if (value?.__file) {
+      sorted[key] = value;
+    } else {
+      sorted[key] = sortTree(value);
+    }
+  });
+  
+  return sorted;
 }
 
 const tree = buildTree(storyFiles);
